@@ -1,7 +1,7 @@
 {
   "name": "Noisysurf",
   "description": "They're listening. Make some noise!",
-  "version": "2.1",
+  "version": "2.1.1",
   "permissions": [
     "alarms",
     "activeTab",
