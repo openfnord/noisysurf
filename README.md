@@ -29,7 +29,7 @@ Use 0.01 for traffic generation. In the future there will be a parameter in the 
 
 ## Testing of a test version with firefox.
 In the browser in about:config the setting "xpinstall.signatures.required" needs to be set to false to allow the installation of unsigned extensions (use with care!)
-You can use the test_noiszy.xpi which includes the newest modifications but is unsigned, or roll your own (just edit the java script and zip the content and rename the zip to xpi) noisysurf
+You can use the test_noisysurf.xpi which includes the newest modifications but is unsigned, or roll your own (just edit the java script and zip the content and rename the zip to xpi) noisysurf
 
 # There is an official version of Noisysurf signed by mozilla.
 
